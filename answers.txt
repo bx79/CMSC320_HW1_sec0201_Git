@@ -13,4 +13,6 @@ Q3: What is the difference between Merging and Rebasing?
 Answer: Whereas merging brings applied changes from another branch to the current branch, rebasing replays the changes from one branch to the current branch.
 
 
+Q4: What are you looking forward to this semester?
 
+Answer: I am looking forward to building new skills that I can use as a computer scientist, and to learn about more fields in CS.
